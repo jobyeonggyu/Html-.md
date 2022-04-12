@@ -22,15 +22,15 @@ Inline 태그(열) – Inline 태그들은 다음라인이 아닌 현재 라인�
 		(title tag) : 타이틀바에 입력될 텍스트 <br/>
 		(link tag) : 외부 css파일 연결에 사용 <br/>
 		(script tag) : js파일을 연결하거나 javascript 코드 입력시에 사용 <br/>
-	(body tag) : 본문에 해당, 실제 보여지는 부분 <br/>
+		(body tag) : 본문에 해당, 실제 보여지는 부분 <br/>
 		(p tag) : 단락을 나눔, 엔터로 줄바꿈X, 태그 안을 하나의 문장으로 생각 <br/>
-		br tag) : 줄바꿈 <br/>
-		(b tag) : 굵은 글씨 <br/>
-		(strong tag) : 글씨 강조 <br/>
+		(br tag) : 줄바꿈 <br/>
+		(b tag) : 굵은 글씨 ex) <b> 글씨 </b><br/>
+		(strong tag) : 글씨 강조 ex) <strong> 글씨 </strong> <br/>
 		(i tag) : 기울어진 글씨, framework로 아이콘 표시할 때 사용 <br/>
 		(h tag) : 제목에 해당, h뒤 숫자가 낮을수록 크기가 큼 <br/>
-		(hr tag) : 직선을 그림 <br/>
-		(div tag) : 상자를 만듬 <br/>
+		(hr tag) : 직선을 그림 <br/> ex) <hr> </hr>
+		(div tag) : 상자를 만듬 ex) <div> </div> <br/>
 		(img tag) : 이미지를 가져옴 <br/>
 		(input tag)　: 입력창을 만듬, 속성타입에 따라 다양하게 생성 <br/>
 		(button tag) : 버튼을 생성함, 속성타입에 따라 다양하게 생성 <br/>
